@@ -1,2 +1,6 @@
 [2020-10-08T15:31:12.360566+00:00] name.WARNING: La commande s'est lancé avec un warning [] []
 [2020-10-08T15:31:12.366345+00:00] name.ERROR: La commande ne s'est pas lancé [] []
+[2020-10-14T11:30:50.093758+00:00] name.WARNING: La commande s'est lancé avec un warning [] []
+[2020-10-14T11:30:50.094902+00:00] name.ERROR: La commande ne s'est pas lancé [] []
+[2020-10-14T11:31:04.621817+00:00] name.WARNING: La commande s'est lancé avec un warning [] []
+[2020-10-14T11:31:04.622925+00:00] name.ERROR: La commande ne s'est pas lancé [] []
