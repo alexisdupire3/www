@@ -1,0 +1,2 @@
+[2020-10-08T15:31:12.360566+00:00] name.WARNING: La commande s'est lancé avec un warning [] []
+[2020-10-08T15:31:12.366345+00:00] name.ERROR: La commande ne s'est pas lancé [] []
